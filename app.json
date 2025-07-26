@@ -1,8 +1,8 @@
 
 {
   
-  "name": "INCONNNU-XD-V2",
-  "description": "Best Whatsapp bot made by inconnu boy tech",
+  "name": "𓆩𝐌ꝛ 𝐋𝐔𝐂𝐈𝐋𝐅𝐄𝐑᭄  MO𝐑N𝐈G𝐒T𝚫𝐑 』",
+  "description": "hi pétasse de groupe de merde",
   "logo":"https://files.catbox.moe/959dyk.jpg",
   "keywords": [
     "whatsapp bot"
@@ -13,27 +13,27 @@
       "SESSION_ID": {
       "description": "Paste here session id that you have scanned",
       "required": true,
-      "value": ""
+      "value": "INCONNU~XD~d6V2hYIK#kcDUfQYA49DQcUTclvQaoohNV-ayEvUTOehVDuOuCHA"
     },
     "MODE": {
       "description": "Enter public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. Or leave blank",
       "required": false,
-      "value": ""
+      "value": "hi les pétasse"
     },
     "AUTO_READ": {
       "description": "Enter true for autoread messages. Or leave blank",
       "required": false,
-      "value": ""
+      "value": "hi pétasse de mrd"
     },
     "AUTO_TYPING": {
       "description": "Enter true for autotype. Or leave blank",
       "required": false,
-      "value": ""
+      "value": "fuck your mom "
     },
     "AUTO_RECORDING": {
       "description": "Enter true if you want bot to show recording audio. Or leave blank",
@@ -43,7 +43,8 @@
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online. Or leave blank",
       "required": false,
-      "value": ""
+      "value": "**Tu crois pouvoir survivre à la purge ?**
+Alors prépare ton masque et tes munitions"
     },
     "AUTO_BLOCK": {
       "description": "Enter it true if you want bot to auto block only 212 numbers. Or leave blank",
